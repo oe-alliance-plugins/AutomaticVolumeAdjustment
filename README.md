@@ -1,15 +1,15 @@
 
 # <p align="center">AutomaticVolumeAdjustment Plugin for Enigma2 (E²) ![GitHub repo size](https://img.shields.io/github/repo-size/oe-alliance-plugins/AutomaticVolumeAdjustment.svg)</p>
 
-**Bitrate**
+**AutomaticVolumeAdjustment**
 
 
 ## Github status
-[![Build](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/buildbot.yml/badge.svg)](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/buildbot.yml)
-[![Lint Status](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/pylint.yml/badge.svg)](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/pylint.yml)
-[![Ruff Status](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/ruff.yml/badge.svg)](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/ruff.yml)
-[![Build Status](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/compile.yml/badge.svg)](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/compile.yml)
-[![AUTOTAG](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/autotag.yml/badge.svg)](https://github.com/oe-alliance-plugins/Bitrate/actions/workflows/autotag.yml)
+[![Build](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/buildbot.yml/badge.svg)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/buildbot.yml)
+[![Lint Status](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/pylint.yml/badge.svg)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/pylint.yml)
+[![Ruff Status](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/ruff.yml/badge.svg)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/ruff.yml)
+[![Build Status](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/compile.yml/badge.svg)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/compile.yml)
+[![AUTOTAG](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/autotag.yml/badge.svg)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/actions/workflows/autotag.yml)
 
 
 [![Plugin Version](https://img.shields.io/github/v/tag/oe-alliance-plugins/AutomaticVolumeAdjustment?label=Latest%20Version&color=darkviolet)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/tags)
@@ -17,13 +17,25 @@
 [![Github last commit](https://img.shields.io/github/last-commit/oe-alliance-plugins/AutomaticVolumeAdjustment)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment)
 [![GitHub Activity](https://img.shields.io/github/commit-activity/y/oe-alliance-plugins/AutomaticVolumeAdjustment.svg?label=commits)](https://github.com/oe-alliance-plugins/AutomaticVolumeAdjustment/commits)
 
+## SonarCloud status
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=bugs)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oe-alliance-plugins_AutomaticVolumeAdjustment&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=oe-alliance-plugins_AutomaticVolumeAdjustment)
+
 ---
 
-### 📜 License Information [![License: Creative Commons v3.0](https://upload.wikimedia.org/wikipedia/commons/b/b1/Cc.logo.white.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+### 📜 License Information [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-This is free software; you can redistribute it and/or modify it under the terms of the Creative Commons License
+This plugin is NOT free software. It is open source and licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-This plugin is released under Creative Commons v3.0. See [LICENSE](http://creativecommons.org/licenses/by-nc-sa/3.0/) for full details.
+This plugin is released under CC BY-NC-SA 3.0. See [LICENSE](LICENSE.txt) for full details.
 
 ---
 
