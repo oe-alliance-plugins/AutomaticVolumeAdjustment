@@ -1,0 +1,87 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Hasan Kiran <sunder67@hotmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"PO-Revision-Date: 2015-10-23 23:06+0300\n"
+"Last-Translator: Hasan Kiran <Sunder67@hotmail.com>\n"
+"Language-Team: Turkish <Sunder67@hotmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Adjustment value"
+msgstr "Ayar değeri"
+
+msgid "Automatic Volume Adjustment"
+msgstr "Otomatik Ses Ayarı"
+
+msgid "Automatic Volume Adjustment - Config"
+msgstr "Otomatik Ses Ayarı - Yapılandırma"
+
+msgid "Automatic Volume Adjustment - Entry Config"
+msgstr "Otomatik Ses Ayarı - Giriş Yapılandırma"
+
+msgid "Automatic Volume Adjustment - Service Config"
+msgstr "Otomatik Ses Ayarı - Kanal Yapılandırma"
+
+msgid "Automatic volume adjust"
+msgstr "Otomatik ses ayarı"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Channel Selection"
+msgstr "Kanal Seçimi"
+
+msgid "Default volume adjustment value for AC3/DTS"
+msgstr "AC3/DTS için varsayılan ses ayarı değeri"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Do you really want to delete this entry?"
+msgstr "Gerçekten bu girdiyi silmek istiyor musunuz?"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Enable"
+msgstr "Etkin"
+
+msgid "Max. volume for mpeg audio"
+msgstr "Mpeg sesi için asgari ses"
+
+msgid "Modus"
+msgstr ""
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Press OK to select a service"
+msgstr "Bir kanal seçmek için OK tuşuna basın"
+
+msgid "Remember service volume value"
+msgstr "Kanal ses değerini hatırla"
+
+msgid "Servicename"
+msgstr "Kanal ismi"
+
+msgid "Services"
+msgstr "Kanallar"
+
+msgid "Show volumebar when volume-value was changed"
+msgstr "Ses değeri değiştirildiğinde ses çubuğunu göster"
+
+msgid "You must select a valid service!"
+msgstr "Geçerli bir kanal seçmelisiniz!"

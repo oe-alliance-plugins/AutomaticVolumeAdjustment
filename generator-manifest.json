@@ -1,0 +1,24 @@
+{
+  "depends": "",
+  "description": "AutomaticVolumeAdjustment",
+  "legacy_setup": {
+    "description": "",
+    "has_setup_translate": false,
+    "name": "",
+    "package_data": [],
+    "package_dir_value": "",
+    "packages": [],
+    "pkg": "",
+    "version": ""
+  },
+  "module_dir_name": "AutomaticVolumeAdjustment",
+  "package_name": "enigma2-plugin-systemplugins-automaticvolumeadjustment",
+  "plugin_group": "systemplugins",
+  "source_repo_branch": "python3",
+  "source_repo_name": "enigma2-plugins,
+  "source_repo_url": "https://github.com/oe-alliance/enigma2-plugins.git",
+  "target_repo_branch": "main",
+  "target_repo_name": "AutomaticVolumeAdjustment",
+  "target_repo_url": "git@github.com:oe-alliance-plugins/AutomaticVolumeAdjustment.git",
+  "version": "1.0"
+}
