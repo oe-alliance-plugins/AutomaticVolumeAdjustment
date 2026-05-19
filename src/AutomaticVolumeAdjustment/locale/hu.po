@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: AVA v1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-05-03 02:07+0200\n"
 "PO-Revision-Date: 2018-04-08 14:02+0200\n"
 "Last-Translator: Alec <alex1vagyok@gmail.com>\n"
 "Language-Team: alec <alex1vagyok@gmail.com>\n"
@@ -18,71 +18,103 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.0.6\n"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:142
 msgid "Add"
 msgstr "Hozzáadás"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:141
+#: ../AutomaticVolumeAdjustmentSetup.py:277
 msgid "Adjustment value"
 msgstr "Beállítási érték"
 
+#: ../plugin.py:66 ../plugin.py:70
 msgid "Automatic Volume Adjustment"
 msgstr "Automatikus hangerőszabályozás"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:57
 msgid "Automatic Volume Adjustment - Config"
 msgstr "AM hangerő - Beállítás"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:254
 msgid "Automatic Volume Adjustment - Entry Config"
 msgstr "AM hangerő - Bejegyzés konfiguráció"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:139
 msgid "Automatic Volume Adjustment - Service Config"
 msgstr "AM hangerő - Csatorna konfiguráció"
 
+#: ../AutomaticVolumeAdjustmentConfig.py:75
 msgid "Automatic volume adjust"
 msgstr "Automatikus hangerő beállítása"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:65
+#: ../AutomaticVolumeAdjustmentSetup.py:262
 msgid "Cancel"
 msgstr "Mégse"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:285
 msgid "Channel Selection"
 msgstr "Csatorna kiválasztása"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:83
 msgid "Default volume adjustment value for AC3/DTS"
 msgstr "Az AC3/DTS alapértelmezett hangerő beállítási értéke"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:145
 msgid "Delete"
 msgstr "Törlés"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:191
 msgid "Do you really want to delete this entry?"
 msgstr "Tényleg törölni szeretné ezt a bejegyzést?"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:144
 msgid "Edit"
 msgstr "Szerkesztés"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:76
 msgid "Enable"
 msgstr "Engedélyezve"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:84
 msgid "Max. volume for mpeg audio"
 msgstr "Maximális hangerő mpeg hanghoz"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:80
 msgid "Modus"
 msgstr "Műkődési mód"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:66
+#: ../AutomaticVolumeAdjustmentSetup.py:143
+#: ../AutomaticVolumeAdjustmentSetup.py:263
 msgid "OK"
 msgstr "OK"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:85
+msgid "Only AC3/DTS(HD)"
+msgstr ""
+
+#: ../AutomaticVolumeAdjustmentConfig.py:95
 msgid "Press OK to select a service"
 msgstr "Nyomja le az OK gombot egy csatorna kiválasztásához"
 
+#: ../AutomaticVolumeAdjustmentConfig.py:75
 msgid "Remember service volume value"
 msgstr "Megjegyzi a csatorna hangerő beállítását"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:140
+#: ../AutomaticVolumeAdjustmentSetup.py:275
 msgid "Servicename"
 msgstr "Csatornanév"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:86
 msgid "Services"
 msgstr "Csatornák"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:87
 msgid "Show volumebar when volume-value was changed"
 msgstr "A hangerő sávjának megjelenítése a hangerő érték megváltoztatásakor"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:305
 msgid "You must select a valid service!"
 msgstr "Egy valós csatornát kell választani!"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-05-03 02:07+0200\n"
 "PO-Revision-Date: 2012-03-16 13:20+0100\n"
 "Last-Translator: Andy Blackburn <andyblac@o2.co.uk>\n"
 "Language-Team: none\n"
@@ -17,71 +17,103 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:142
 msgid "Add"
 msgstr "Add"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:141
+#: ../AutomaticVolumeAdjustmentSetup.py:277
 msgid "Adjustment value"
 msgstr "Adjustment value"
 
+#: ../plugin.py:66 ../plugin.py:70
 msgid "Automatic Volume Adjustment"
 msgstr "Automatic Volume Adjustment"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:57
 msgid "Automatic Volume Adjustment - Config"
 msgstr "Automatic Volume Adjustment - Config"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:254
 msgid "Automatic Volume Adjustment - Entry Config"
 msgstr "Automatic Volume Adjustment - Entry Config"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:139
 msgid "Automatic Volume Adjustment - Service Config"
 msgstr "Automatic Volume Adjustment - Service Config"
 
+#: ../AutomaticVolumeAdjustmentConfig.py:75
 msgid "Automatic volume adjust"
 msgstr "Automatic volume adjust"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:65
+#: ../AutomaticVolumeAdjustmentSetup.py:262
 msgid "Cancel"
 msgstr "Cancel"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:285
 msgid "Channel Selection"
 msgstr "Channel Selection"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:83
 msgid "Default volume adjustment value for AC3/DTS"
 msgstr "Default volume adjustment value for AC3/DTS"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:145
 msgid "Delete"
 msgstr "Delete"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:191
 msgid "Do you really want to delete this entry?"
 msgstr "Do you really want to delete this entry?"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:144
 msgid "Edit"
 msgstr "Edit"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:76
 msgid "Enable"
 msgstr "Enable"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:84
 msgid "Max. volume for mpeg audio"
 msgstr "Max. volume for mpeg audio"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:80
 msgid "Modus"
 msgstr "Modus"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:66
+#: ../AutomaticVolumeAdjustmentSetup.py:143
+#: ../AutomaticVolumeAdjustmentSetup.py:263
 msgid "OK"
 msgstr "OK"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:85
+msgid "Only AC3/DTS(HD)"
+msgstr ""
+
+#: ../AutomaticVolumeAdjustmentConfig.py:95
 msgid "Press OK to select a service"
 msgstr "Press OK to select a service"
 
+#: ../AutomaticVolumeAdjustmentConfig.py:75
 msgid "Remember service volume value"
 msgstr "Remember service volume value"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:140
+#: ../AutomaticVolumeAdjustmentSetup.py:275
 msgid "Servicename"
 msgstr "Service name"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:86
 msgid "Services"
 msgstr "Services"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:87
 msgid "Show volumebar when volume-value was changed"
 msgstr "Show volume bar when volume-value was changed"
 
+#: ../AutomaticVolumeAdjustmentSetup.py:305
 msgid "You must select a valid service!"
 msgstr "You must select a valid service!"
